@@ -18,6 +18,22 @@
 	</div>
 </div>
 
+<div id="images-section" class="container-fluid">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-4">
+				<img id="gallery-img" class="img-responsive" src="/images/placeholdRoostr.png" alt="roostr1" />
+			</div>
+			<div class="col-sm-4">
+				<img id="gallery-img" class="img-responsive" src="/images/placeholdRoostr.png" alt="roostr2" />
+			</div>
+			<div class="col-sm-4">
+				<img id="gallery-img" class="img-responsive" src="/images/placeholdRoostr.png" alt="roostr3" />
+			</div>
+		</div>
+	</div>
+</div>
+
 <div id="next-section" class="container-fluid">
 	<div class="container">
 		<div class="row">
