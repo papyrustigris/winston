@@ -1,0 +1,40 @@
+@font-face {
+	font-family: 'Chunk Five';
+	src: url('../fonts/ChunkFive/ChunkFive.ttf');
+}
+
+nav.navbar.navbar-default {
+	margin-bottom: 0;
+}
+	.navbar-brand {
+		font-family: 'Chunk Five';
+		font-size: 24px;
+	}
+
+.placeholder-bkgrnd {
+	height: 500px;
+	background-color: black;
+}
+
+#about-section {
+	height: 300px;
+	background-color: purple;
+}
+
+#next-section {
+	height:600px;
+	background-color: white;
+}
+
+#footer-section {
+	background-color: grey;
+}
+
+footer {
+	height:300px;
+	text-align: center;
+}
+	footer > p {
+		position: relative;
+		top:260px;		
+	}
